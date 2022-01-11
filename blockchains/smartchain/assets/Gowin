@@ -1,0 +1,10 @@
+{
+     "name": "Simple Cool Autommatic Money",
+     "website": "https://www.gwncoin.com",
+     "description": "GOWIN is the native token for the project Simple.",
+     "explorer": "https://bscscan.com/token/0x25f9b37e0e798bca8b5a5ef08f8ab0341e11d986",
+     "type": "BEP20",
+     "symbol": "GWN",
+     "decimals": 18,
+     "status": "active",
+     "id": "0x25f9b37e0e798bca8b5a5ef08f8ab0341e11d986"
